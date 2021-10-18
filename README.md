@@ -9,7 +9,7 @@ The second line contains the space separated list of ***N*** integers.
 
 **Output Format**
 
-Print True if all the conditions of the problem statement are satisfied. Otherwise, print False.  
+Print *True* if all the conditions of the problem statement are satisfied. Otherwise, print *False*.  
 
 **Sample Input**
 ```
